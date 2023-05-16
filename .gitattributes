@@ -1,0 +1,2 @@
+Face_Archetype.uasset filter=lfs diff=lfs merge=lfs -text
+*FaceMesh.uasset filter=lfs diff=lfs merge=lfs -text
