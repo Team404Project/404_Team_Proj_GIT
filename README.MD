@@ -29,15 +29,15 @@ Our software was developed using Unreal Engine 5.1 for building and logic. Othe 
 - [Unreal Engine RPG Tutorial Playlist](https://youtube.com/playlist?list=PLVcVWC1bK3YW1QIHDWDOOmwcQpy724PER)
 
 ### Future Work
-- Add animation Blend Spaces for all animations (ie attacks, impacts, sheathing/unsheathing, deaths, and more).
-- Increase tracking iterations for more accurate hit boxes.
-- Add custom enemy meshes.
-- Add enemy spawning and despawning logic.
-- Add ranged weapons and logic.
-- Create more expansive stats for PC and NPC.
-- Add player damage, impact animations, and death.
-- Introduce unique weapons.
-- Introduce consumable items.
-- Develope storyline and non-hostile NPC's with Dialogue.
-- Introduce PC HUD UI (health, stamina, XP, etc.).
-- Add world borders and death borders.
+1. Add animation Blend Spaces for all animations (ie attacks, impacts, sheathing/unsheathing, deaths, and more).
+2. Increase tracking iterations for more accurate hit boxes.
+3. Add custom enemy meshes.
+4. Add enemy spawning and despawning logic.
+5. Add ranged weapons and logic.
+6. Create more expansive stats for PC and NPC.
+7. Add player damage, impact animations, and death.
+8. Introduce unique weapons.
+9. Introduce consumable items.
+10. Develope storyline and non-hostile NPC's with Dialogue.
+11. Introduce PC HUD UI (health, stamina, XP, etc.).
+12. Add world borders and death borders.
