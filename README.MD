@@ -3,7 +3,7 @@ This project is a functional videogame developed in Unreal Engine 5.1 for the pu
 
 Our software runs on Unreal Engine 5.1 and utilizes keyboard and mouse controls for control of the player character. The GitHub repository contains all assets, logic, and software needed to run this program.
 
-Software Demo Video
+[Software Demo Video](https://youtu.be/XiDLbnS6x98)
 
 ### Development Environment
 Our software was developed using Unreal Engine 5.1 for building and logic. Othe platforms used include Blender, Mixamo Animations, Visual Studio, Visual Studio Code, Metahumans, Github Desktop, and Github. We mainly used Unreal for gameplay and level design, and Blender for asset generation.
