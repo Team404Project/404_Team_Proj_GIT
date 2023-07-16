@@ -18,7 +18,7 @@ Our software was developed using Unreal Engine 5.1 for building and logic. Othe 
 
 ### Useful Websites
 
-- AI NPC Tutorial: https://www.youtube.com/watch?v=xm-7m5Fw1HU&t=332s
+- [AI NPC Tutorial](https://www.youtube.com/watch?v=xm-7m5Fw1HU&t=332s)
 - Metahuman PC Tutorial: https://metahuman.unrealengine.com/
 - Mixamo Animation Conversion: https://www.youtube.com/watch?v=SXDmX1ronGw
 - Mixamo Animations: https://www.mixamo.com/
