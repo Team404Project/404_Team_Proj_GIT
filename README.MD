@@ -18,15 +18,15 @@ Our software was developed using Unreal Engine 5.1 for building and logic. Othe 
 
 ## Useful Websites
 
-AI NPC Tutorial: https://www.youtube.com/watch?v=xm-7m5Fw1HU&t=332s
-Metahuman PC Tutorial: https://metahuman.unrealengine.com/
-Mixamo Animation Conversion: https://www.youtube.com/watch?v=SXDmX1ronGw
-Mixamo Animations: https://www.mixamo.com/
-Unreal and Github Support: https://www.google.com/search?q=connecting+unreal+engine+5+to+github+tutorial&client=firefox-b-1-d&ei=_8xKZLrxFsmT0PEP2a-luAE&oq=connecting+unreal+engine+5+to+github+tu&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQARgAMgUIIRCgAToKCAAQRxDWBBCwAzoICCEQFhAeEB06BQghEKsCSgQIQRgAUGdY9R9g8CpoAXABeACAAf0FiAHWKJIBDTAuMS4zLjQuMi4yLjGYAQCgAQHIAQjAAQE&sclient=gws-wiz-serp#fpstate=ive&vld=cid:f4b53604,vid:zIllLXkkHB0
-Melee Tutorial: https://www.youtube.com/watch?v=iPfU1SmzkkY&t=31s
-Asset Library: https://sketchfab.com/3d-models/25-pack-smoldering-wall-torches-18d4204061c24818b55ee70d76011ad0
-Camera Debugging: https://forums.unrealengine.com/t/highlight-objects-behind-other-objects/681856/5
-Unreal Engine RPG Tutorial Playlist: https://youtube.com/playlist?list=PLVcVWC1bK3YW1QIHDWDOOmwcQpy724PER
+- AI NPC Tutorial: https://www.youtube.com/watch?v=xm-7m5Fw1HU&t=332s
+- Metahuman PC Tutorial: https://metahuman.unrealengine.com/
+- Mixamo Animation Conversion: https://www.youtube.com/watch?v=SXDmX1ronGw
+- Mixamo Animations: https://www.mixamo.com/
+- Unreal and Github Support: https://www.google.com/search?q=connecting+unreal+engine+5+to+github+tutorial&client=firefox-b-1-d&ei=_8xKZLrxFsmT0PEP2a-luAE&oq=connecting+unreal+engine+5+to+github+tu&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQARgAMgUIIRCgAToKCAAQRxDWBBCwAzoICCEQFhAeEB06BQghEKsCSgQIQRgAUGdY9R9g8CpoAXABeACAAf0FiAHWKJIBDTAuMS4zLjQuMi4yLjGYAQCgAQHIAQjAAQE&sclient=gws-wiz-serp#fpstate=ive&vld=cid:f4b53604,vid:zIllLXkkHB0
+- Melee Tutorial: https://www.youtube.com/watch?v=iPfU1SmzkkY&t=31s
+- Asset Library: https://sketchfab.com/3d-models/25-pack-smoldering-wall-torches-18d4204061c24818b55ee70d76011ad0
+- Camera Debugging: https://forums.unrealengine.com/t/highlight-objects-behind-other-objects/681856/5
+- Unreal Engine RPG Tutorial Playlist: https://youtube.com/playlist?list=PLVcVWC1bK3YW1QIHDWDOOmwcQpy724PER
 
 ## Future Work
 - Add animation Blend Spaces for all animations (ie attacks, impacts, sheathing/unsheathing, deaths, and more).
