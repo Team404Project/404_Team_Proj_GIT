@@ -9,12 +9,12 @@ Software Demo Video
 Our software was developed using Unreal Engine 5.1 for building and logic. Othe platforms used include Blender, Mixamo Animations, Visual Studio, Visual Studio Code, Metahumans, Github Desktop, and Github. We mainly used Unreal for gameplay and level design, and Blender for asset generation.
 
 ### Collaborators
-- Documentation and AI Specialist: Andrew Olson
-- Repository and Technical Support Specialist: Austin Slaughter
-- Storyboard and Level Design Specialist: Canon Heise
-- Level Modeling and Logic Specialist: Benjamin Bell
-- Unreal Engine and Support Specialist: Tyler Barton
-- Technical and Stretch Specialist: Christopher Peart
+- **Documentation and AI Specialist:** Andrew Olson
+- **Repository and Technical Support Specialist:** Austin Slaughter
+- **Storyboard and Level Design Specialist:** Canon Heise
+- **Level Modeling and Logic Specialist:** Benjamin Bell
+- **Unreal Engine and Support Specialist:** Tyler Barton
+- **Technical and Stretch Specialist:** Christopher Peart
 
 ### Useful Websites
 
