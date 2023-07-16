@@ -1,11 +1,11 @@
-## Overview
+### Overview
 This project is a functional videogame developed in Unreal Engine 5.1 for the purpose of displaying a working game that utilizes locomotion, animations, AI tracking, damage, health, and environmental variables. This project was developed over the course of four months and is the beginning effort of a group of 6 programmers and software engineers.
 
 Our software runs on Unreal Engine 5.1 and utilizes keyboard and mouse controls for control of the player character. The GitHub repository contains all assets, logic, and software needed to run this program.
 
 Software Demo Video
 
-#Development Environment
+## Development Environment
 Our software was developed using Unreal Engine 5.1 for building and logic. Othe platforms used include Blender, Mixamo Animations, Visual Studio, Visual Studio Code, Metahumans, Github Desktop, and Github. We mainly used Unreal for gameplay and level design, and Blender for asset generation.
 
 ## Collaborators
